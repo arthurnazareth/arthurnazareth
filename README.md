@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arthurnazareth/t-bx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arthurnazareth/arthurnazareth/output/snake.svg" alt="Snake animation" />
 
 ###
 
